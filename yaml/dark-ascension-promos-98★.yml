@@ -1,0 +1,146 @@
+---
+object: card
+id: 98fc475a-809d-4278-be03-86eab62b46ce
+oracle_id: f94cb722-7e46-4569-b474-9654ecf7ec14
+multiverse_ids: []
+tcgplayer_id: 57659
+cardmarket_id: 252769
+name: Mondronen Shaman // Tovolar's Magehunter
+lang: en
+released_at: '2012-01-28'
+uri: https://api.scryfall.com/cards/98fc475a-809d-4278-be03-86eab62b46ce
+scryfall_uri: https://scryfall.com/card/pdka/98%E2%98%85/mondronen-shaman-tovolars-magehunter?utm_source=api
+layout: transform
+highres_image: true
+image_status: highres_scan
+cmc: 4.0
+type_line: Creature — Human Shaman Werewolf // Creature — Werewolf
+color_identity:
+- R
+keywords:
+- Transform
+card_faces:
+- object: card_face
+  name: Mondronen Shaman
+  mana_cost: "{3}{R}"
+  type_line: Creature — Human Shaman Werewolf
+  oracle_text: At the beginning of each upkeep, if no spells were cast last turn,
+    transform Mondronen Shaman.
+  colors:
+  - R
+  power: '3'
+  toughness: '2'
+  flavor_text: '"Tovolar, my master. Gather the howlpack, for the Hunter''s Moon is
+    nigh and Thraben''s walls grow weak."'
+  watermark: set
+  artist: Anthony Palumbo
+  artist_id: afd2d541-4140-41ae-a28f-862436458fcb
+  illustration_id: c2be7995-0107-4c2f-a13a-e2ae19bdba90
+  image_uris:
+    small: https://cards.scryfall.io/small/front/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    normal: https://cards.scryfall.io/normal/front/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    large: https://cards.scryfall.io/large/front/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    png: https://cards.scryfall.io/png/front/9/8/98fc475a-809d-4278-be03-86eab62b46ce.png?1605371311
+    art_crop: https://cards.scryfall.io/art_crop/front/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    border_crop: https://cards.scryfall.io/border_crop/front/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+- object: card_face
+  name: Tovolar's Magehunter
+  flavor_name: ''
+  mana_cost: ''
+  type_line: Creature — Werewolf
+  oracle_text: |-
+    Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.
+    At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.
+  colors:
+  - R
+  color_indicator:
+  - R
+  power: '5'
+  toughness: '5'
+  artist: Anthony Palumbo
+  artist_id: afd2d541-4140-41ae-a28f-862436458fcb
+  illustration_id: 5188c491-2202-42f7-8476-de095862971c
+  image_uris:
+    small: https://cards.scryfall.io/small/back/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    normal: https://cards.scryfall.io/normal/back/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    large: https://cards.scryfall.io/large/back/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    png: https://cards.scryfall.io/png/back/9/8/98fc475a-809d-4278-be03-86eab62b46ce.png?1605371311
+    art_crop: https://cards.scryfall.io/art_crop/back/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+    border_crop: https://cards.scryfall.io/border_crop/back/9/8/98fc475a-809d-4278-be03-86eab62b46ce.jpg?1605371311
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: f784e27e-4af8-4b11-8d45-826388d63604
+set: pdka
+set_name: Dark Ascension Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/f784e27e-4af8-4b11-8d45-826388d63604
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apdka&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pdka?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/98fc475a-809d-4278-be03-86eab62b46ce/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af94cb722-7e46-4569-b474-9654ecf7ec14&unique=prints
+collector_number: 98★
+digital: false
+rarity: rare
+artist: Anthony Palumbo
+artist_ids:
+- afd2d541-4140-41ae-a28f-862436458fcb
+border_color: black
+frame: '2003'
+frame_effects:
+- sunmoondfc
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- datestamped
+- release
+edhrec_rank: 7172
+penny_rank: 10401
+prices:
+  usd: 
+  usd_foil: '0.64'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mondronen+Shaman+%2F%2F+Tovolar%27s+Magehunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mondronen+Shaman+%2F%2F+Tovolar%27s+Magehunter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mondronen+Shaman
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/57659?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mondronen+Shaman&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Mondronen+Shaman&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
